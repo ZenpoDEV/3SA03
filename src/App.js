@@ -3,12 +3,12 @@ import './App.css';
 import CharacterCard from './CharacterCard.js';
 import WordCard from './WordCard.js';
 
-const word = "Hello";
+const word = "THAILAND";
 class App extends Component {
   render() {
     return (
       <div>
-        <WordCard value="hello" />
+        <WordCard value="THAILAND" />
       </div>
     );
   }
